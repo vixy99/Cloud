@@ -1,0 +1,20 @@
+{
+  "company group" : "group",
+  "project name" : "nama perusahaan",
+  "company address" : "alamat perusahaan",
+  "company phone" : "telepon perusahaan",
+  "company whatsapp" : "whatsapp",
+  "company website" : "website",
+  "total user" : "total user",
+  "choose package" : "choose package",
+  "choose plugin" : "choose plugin",
+  "create project" : "create project",
+  "marketplace notes" : "keterangan marketplace",
+  "company identifier" : "id perusahaan",
+  "vat identification number" : "npwp",
+  "join to company" : "bergabung ke perusahaan",
+  "invitation code" : "kode undangan",
+  "request to join" : "permintaan untuk bergabung",
+  "invitation code intro": "kode undangan ini dapat anda bagikan ke karyawan anda untuk karyawan anda bergabung ke project ini, centang kolom aktivasi dibawah ini untuk mengaktifkan kode undangan",
+  "join to company intro": "anda dapat bergabung ke perusahaan yang telah terdaftar. Yang anda perlukan adalah kode undangan yang dapat anda minta ke perusahaan tersebut."
+}

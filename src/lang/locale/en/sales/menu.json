@@ -1,0 +1,11 @@
+{
+  "sales" : "sales",
+  "sales contract" : "contract",
+  "sales quotation" : "sales quotation",
+  "sales order" : "sales order",
+  "delivery order" : "delivery order",
+  "delivery note" : "delivery note",
+  "sales invoice" : "invoice",
+  "sales down payment" : "down payment",
+  "sales return" : "return"
+}
